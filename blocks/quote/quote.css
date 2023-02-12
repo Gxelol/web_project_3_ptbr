@@ -1,0 +1,7 @@
+.quote {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  margin-top: 40px;
+}
