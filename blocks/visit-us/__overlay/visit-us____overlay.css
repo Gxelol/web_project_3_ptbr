@@ -1,0 +1,8 @@
+.visit-us__overlay {
+  background-color: #2a2c2f36;
+  height: 740px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
