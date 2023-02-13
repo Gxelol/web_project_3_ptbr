@@ -1,4 +1,5 @@
 .logo__square {
+  position: relative;
   width: 32px;
   height: 32px;
   background: #0278FE;

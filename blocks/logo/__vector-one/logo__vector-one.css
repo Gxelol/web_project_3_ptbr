@@ -1,0 +1,9 @@
+.logo__vector-one {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  width: 3px;
+  height: 32px;
+  background-color: #2A2C2F;
+  z-index: 2;
+}
