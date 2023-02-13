@@ -1,6 +1,6 @@
 .visit-us__button {
   margin-top: 32px;
-  width: 15%;
+  width: 20%;
   background-color: #0278FE;
   border-radius: 5px;
   cursor: pointer;
@@ -8,4 +8,10 @@
   color: #ffffff;
   align-self: center;
   border: none;
+}
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  .visit-us__button {
+    width: 25%;
+  }
 }

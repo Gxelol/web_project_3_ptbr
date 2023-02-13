@@ -1,8 +1,14 @@
 .header__subtitle {
-  width: 70%;
+  width: 60%;
   margin-top: 32px;
   text-align: center;
   font-size: 30px;
   line-height: 1.2;
   font-weight: normal;
+}
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  .header__subtitle {
+    width: 90%;
+  }
 }
