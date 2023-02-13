@@ -1,9 +1,10 @@
 .section-button {
-  margin-top: 61px;
+  width: 35%;
   background-color: #0278FE;
   border-radius: 5px;
   cursor: pointer;
-  padding: 12px;
+  padding: 15px;
   border: none;
   color: #ffffff;
+  margin-bottom: 93px;
 }
