@@ -1,11 +1,31 @@
 .section-button {
-  bottom: 0;
-  left: 0;
-  width: 40%;
+  width: 80%;
   background-color: #0278FE;
   border-radius: 5px;
   cursor: pointer;
   padding: 15px;
   border: none;
   color: #ffffff;
+  margin-top: 48px;
+  transition: ease-in-out 300ms;
+}
+
+.section-button:hover {
+  background-color: #0063D2;
+}
+
+@media screen and (min-width: 768px) and (max-width: 980px) {
+  .section-button {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .section-button {
+    width: 90%;
+    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+    left: 3%;
+  }
 }
