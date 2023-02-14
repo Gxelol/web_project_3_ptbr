@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  column-gap: 28px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .grid {
+    display: flex;
+    flex-direction: column;
+    font-size: 32px;
+    margin: 3%;
+  }
+}
