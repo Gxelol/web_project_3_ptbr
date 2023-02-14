@@ -5,4 +5,15 @@
   flex-direction: column;
   justify-content: center;
   text-align: center;
+  transition: ease-in-out 300ms;
+}
+
+.visit-us__overlay:hover {
+  background-color: #2a2c2f62;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .visit-us__overlay {
+    height: 254px;
+  }
 }
