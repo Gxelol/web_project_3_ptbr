@@ -10,3 +10,9 @@
     width: 100%;
   }
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .header__illustration {
+    width: 100%;
+  }
+}
