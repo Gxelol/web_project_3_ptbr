@@ -29,12 +29,9 @@
 @import url(../blocks/artist/artist.css);
 @import url(../blocks/artist/__name/artist__name.css);
 @import url(../blocks/artist/__title/artist__title.css);
-@import url(../blocks/kiev/kiev.css);
 @import url(../blocks/grid/grid.css);
 @import url(../blocks/grid/__text-container/grid__text-container.css);
-@import url(../blocks/criccieth/criccieth.css);
-@import url(../blocks/berea/berea.css);
-@import url(../blocks/muramvya/muramvya.css);
+@import url(../blocks/place/place.css);
 @import url(../blocks/visit-us/visit-us.css);
 @import url(../blocks/visit-us/__overlay/visit-us____overlay.css);
 @import url(../blocks/visit-us/__background/visit-us__background.css);
